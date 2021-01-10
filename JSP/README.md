@@ -26,7 +26,7 @@
 html처럼 출력하게 해주는 (1.3) out 객체, 에러처리를 위한 (1.4) exception 객체를 배웠습니다.  
 (2) 서블릿끼리 데이터를 공유하게 해주는 Servlet Parameter, Context Parameter를 배우고  
 Servlet과 JSP를 비교해보았습니다. Servlet은 자바 코드 안에 HTML이, JSP는 HTML 안에 자바 코드가 있는 형태입니다.  
-- [정리 링크1](https://joomal.github.io//210103jsp2/)
+- [정리 링크1](https://joomal.github.io//210103jsp2/)  
 (3) 세션과 쿠키의 차이점을 공부하고, 직접 구현해보았습니다.  
 - [정리 링크2](https://joomal.github.io//210104jsp/)
 - [관련 레파지토리](https://github.com/JooMal/withBackendRoadmap/tree/main/JSP/SessionAndCookie)
