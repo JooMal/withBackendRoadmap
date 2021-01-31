@@ -44,3 +44,6 @@ Servlet과 JSP를 비교해보았습니다. Servlet은 자바 코드 안에 HTML
 (3) 데이터 베이스와 통신하는 자원을 관리하는 **커넥션 풀**을 배우고, 설정을 해보았습니다.  
 - [정리 링크](https://joomal.github.io//210105jsp/)
 - [관련 레파지토리](https://github.com/JooMal/withBackendRoadmap/tree/main/JSP/fromServletToDaoDto)
+
+
+---
